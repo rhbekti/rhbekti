@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=rhbekti)
 
 <!--![](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif) -->
-<p>
+<!-- <p>
   <img alt="Laravel" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="50%" />
-</p>
+</p> -->
 
 ### About me:
 
