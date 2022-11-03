@@ -9,13 +9,9 @@
 
 ### About me:
 
-- 🔭 I’m currently working for a s
+- 🔭 I'm currently working as a technology staff
 - 🌱 I’m currently learning Web and Data Science
 - 👯 I’m looking to collaborate on any kind of web dev
-- 🤔 I’m looking for help with any kind of web dev
-- 💬 Talk to me about manga, anime, movies or books
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact:
 
 ### Things i code with:
 
@@ -26,7 +22,6 @@
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-9C27B0?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
 ### My Github stats:
