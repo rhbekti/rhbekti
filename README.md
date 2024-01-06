@@ -7,18 +7,19 @@
   <img alt="Laravel" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" width="50%" />
 </p> -->
 
-### About me:
+### Tentang Saya : 
 
-- 🔭 I'm currently working as a technology staff
-- 🌱 I’m currently learning Web and Data Science
-- 👯 I’m looking to collaborate on any kind of web dev
+- 🔭 Mantan Admin SPBU
+- 🌱 Suka Ngulik
+- 👯 Hobi Nggambar kalau lagi gabut
 
-### Things i code with:
+### Beberapa Teknologi yg digunakan : 
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-green?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
   <img alt="Php" src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-9C27B0?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
