@@ -9,7 +9,6 @@
 
 ### Tentang Saya : 
 
-- 🔭 Mantan Admin SPBU
 - 🌱 Suka Ngulik
 - 👯 Hobi Nggambar kalau lagi gabut
 
