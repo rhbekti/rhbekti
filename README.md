@@ -9,8 +9,7 @@
 
 ### Tentang Saya : 
 
-- 🌱 Suka Ngulik
-- 👯 Hobi Nggambar kalau lagi gabut
+- 🌱 Junior Dev
 
 ### Beberapa Teknologi yg digunakan : 
 
